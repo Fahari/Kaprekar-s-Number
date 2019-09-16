@@ -1,4 +1,4 @@
-## Kaprekar-s-Number
+## Kaprekars Number
 
 #### 16 September 2019
 
