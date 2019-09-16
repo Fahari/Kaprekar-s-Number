@@ -37,7 +37,7 @@ The above process, known as Kaprekar's routine, will always reach its fixed poin
 
 ```
 ## Application link
-click [here](https://mtaakwetu.herokuapp.com/)
+click [here](https://fahari.github.io/Kaprekar-s-Number/)
 
 
 ## Known bugs
